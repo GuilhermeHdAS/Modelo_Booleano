@@ -1,7 +1,7 @@
 # UNIVERSIDADE FEDERAL DE UBERLÂNDIA - UFU
 # Organização e Recuperação da informação - Professor Wendel Melo 
 # Guilherme Henrique de Araújo Santos 
-# Gustavo Henrique Ferreira Reis Costa  
+# Gustavo Henrique Ferreira Reis Costa 
 # ***************************************************************** #
 
 # Baixando o Python e o Pip Windows e Linux:
